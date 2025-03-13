@@ -24,4 +24,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/alilotfi23/alilotfi23/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/alilotfi23/alilotfi23/output/snake.svg" alt="Snake animation" />
+
+###
