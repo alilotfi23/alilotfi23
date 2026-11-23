@@ -23,7 +23,7 @@
 
 I'm a Cloud &amp; DevOps-focused engineer interested in building reliable infrastructure, automating delivery workflows, and making systems observable and maintainable.
 
-I'm currently pursuing an **M.Sc. in Applied Computer Science at the University of Bamberg, Germany**. My hands-on work and projects span Linux administration, CI/CD, container platforms, infrastructure as code, cloud tooling, and monitoring.
+My hands-on work and projects span Linux administration, CI/CD, container platforms, infrastructure as code, cloud tooling, and monitoring.
 
 I enjoy understanding systems from the infrastructure layer up — then turning that understanding into practical tools and repeatable automation.
 
