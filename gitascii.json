@@ -16,7 +16,7 @@
       "config": {
         "accentColor": "#00ff88",
         "customTitle": "Surveillance Header",
-        "secondaryColor": "#55ffff",
+        "secondaryColor": "#c5ff4a",
         "ledColor": "#00ff88",
         "customBio": "rm -rf /",
         "roleTag": "Devops/Cloud Engineer",
@@ -129,7 +129,7 @@
   "templateId": "minimal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795437150416_frpzd",
-    "updatedAt": "2026-11-23T12:32:34.503Z"
+    "revision": "rev_1795438066186_jkcui",
+    "updatedAt": "2026-11-23T12:47:52.071Z"
   }
 }
