@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Lotfi — Cloud and DevOps Engineer</title>
+  <desc id="desc">Cyberpunk neon profile banner with a futuristic city grid, terminal prompt, and cloud infrastructure theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b18"/>
+      <stop offset="0.55" stop-color="#10102a"/>
+      <stop offset="1" stop-color="#190b25"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5ff"/>
+      <stop offset="0.52" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ff3cac"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#36d9ff" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <path d="M0 270 L180 230 300 260 430 190 560 235 690 150 820 205 970 125 1200 175" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".5"/>
+  <path d="M0 300H1200" stroke="#00f5ff" stroke-opacity=".45"/>
+  <g fill="#12152e" stroke="#00eaff" stroke-opacity=".55">
+    <path d="M760 250V135h70v115M850 250V90h95v160M965 250V155h58v95M1040 250V112h92v138"/>
+    <path d="M780 155h12m18 0h12m-42 25h12m18 0h12m-42 25h12m18 0h12M870 115h15m18 0h15m-48 25h15m18 0h15m-48 25h15m18 0h15m-48 25h15m18 0h15M980 175h12m-12 22h12m-12 22h12M1060 135h15m18 0h15m-48 25h15m18 0h15m-48 25h15m18 0h15" stroke-width="2"/>
+  </g>
+  <g filter="url(#glow)">
+    <path d="M70 78H540" stroke="url(#neon)" stroke-width="3"/>
+    <path d="M70 260H650" stroke="url(#neon)" stroke-width="2" opacity=".8"/>
+    <circle cx="70" cy="78" r="5" fill="#00f5ff"/>
+    <circle cx="650" cy="260" r="4" fill="#ff3cac"/>
+  </g>
+  <text x="76" y="135" fill="#9af7ff" font-family="monospace" font-size="17" letter-spacing="5">CLOUD / AUTOMATION / RELIABILITY</text>
+  <text x="72" y="202" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="2">ALI LOTFI</text>
+  <text x="76" y="239" fill="#ff55c8" font-family="monospace" font-size="22" letter-spacing="3">CLOUD &amp; DEVOPS ENGINEER</text>
+  <text x="76" y="302" fill="#9aa8c7" font-family="monospace" font-size="15">root@ali:~$ build • automate • observe • improve_</text>
+  <g transform="translate(1040 55)" filter="url(#glow)">
+    <path d="M-30 30c-19 0-30-12-30-27 0-14 11-25 25-27 6-18 23-30 43-30 23 0 42 17 45 39 17 1 30 14 30 30 0 17-14 30-32 30H-30Z" fill="none" stroke="#00f5ff" stroke-width="3"/>
+    <path d="M-8 9l15-17 15 17M7-8v43" fill="none" stroke="#ff3cac" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
