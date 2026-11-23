@@ -1,4 +1,5 @@
 {
+  "username": "alilotfi23",
   "widgets": [
     {
       "instanceId": "widget_f502177b-f1a1-4c3e-bd23-f2418ba4c117",
@@ -15,7 +16,7 @@
       "config": {
         "accentColor": "#00ff88",
         "customTitle": "Surveillance Header",
-        "secondaryColor": "#55ffff",
+        "secondaryColor": "#c5ff4a",
         "ledColor": "#00ff88",
         "customBio": "rm -rf /",
         "roleTag": "Devops/Cloud Engineer",
@@ -44,10 +45,12 @@
         "height": 420
       },
       "config": {
-        "accentColor": "#c5ff4a",
+        "accentColor": "#00ff88",
         "customTitle": "Terminal Telemetry",
         "animationType": "glitch",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
       },
       "locked": false,
       "visible": true,
@@ -107,7 +110,10 @@
         "width": 390,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "animationType": "scan-lines",
+        "animationPreviewKey": 4
+      },
       "locked": false,
       "visible": true,
       "zIndex": 5
@@ -125,5 +131,10 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "minimal"
+  "templateId": "minimal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1795439535927_1q7f7",
+    "updatedAt": "2026-11-23T13:12:21.643Z"
+  }
 }
